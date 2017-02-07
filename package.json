@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "phaser": "git+https://github.com/photonstorm/phaser.git"
+  },
   "devDependencies": {
     "bootstrap-sass": "^3.3.6",
     "browser-sync": "^2.12.12",
